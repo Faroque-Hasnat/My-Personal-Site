@@ -1,0 +1,71 @@
+.controls ul{
+   margin: 10px 0;
+   padding: 0;
+   text-align: center;
+}
+
+.controls ul li{
+   display: inline-block;
+   list-style: none;
+   background: #222;
+   margin: 5px 5px;
+   padding: 10px 25px;
+   color: #fff;
+   text-transform: uppercase;
+   letter-spacing: 2px;
+   cursor: pointer;
+   font-size: 12px;
+}
+
+.item {
+   position: relative;
+}
+
+.item:before {
+   content: "";
+   position: absolute;
+   top: 0;
+   left: 0;
+   height: 100%;
+   width: 100%;
+   background-color: rgba(0,0,0,0.6);
+   opacity: 0;
+   transition: 0.3s;
+}
+
+.item:hover:before {
+   opacity: 1;
+   transition: 0.3s;
+}
+
+.item-button {
+   position: absolute;
+   top: 50%;
+   transform: translateY(-50%);
+   left: 0;
+   width: 100%;
+   text-align: center;
+}
+
+.item-button .portIcon{
+   height: 40px;
+   line-height: 50px;
+   width: 40px;
+   text-align: center;
+   background: #fff;
+   color: #222;
+   padding: 10px;
+   margin: 0 2px;
+   opacity: 0;
+   transition: 0.3s;
+}
+
+.item:hover .item-button .portIcon {
+   opacity: 1;
+   transition: 0.3s;
+}
+
+.item img {
+   height: 300px;
+   width: 100%;
+}

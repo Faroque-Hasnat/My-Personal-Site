@@ -15,8 +15,8 @@ const Slider = () => {
                <div className="carousel-item carousel-img-1 active">
                   <div className="container">
                      <div className="carousel-caption mb-3 pb-3 mb-sm-5 pb-sm-5 text-left">
-                        <h2 className="display-4">Faroque Hasnat</h2>
-                        <h5>Web Designer & Developer</h5>
+                        <h2 className="display-4 text-light">Faroque Hasnat</h2>
+                        <h5 className=" text-light">Web Designer & Developer</h5>
                         <a href="https://www.facebook.com/faroquehasnat" target="blank" className="btn btn-outline-light mx-1 my-3"><FontAwesomeIcon icon={faFacebookF} /></a>
                         <a href="https://www.facebook.com/messages/t/faroquehasnat" target="blank" className="btn btn-outline-light mx-1 my-3"><FontAwesomeIcon icon={faFacebookMessenger} /></a>
                         <a href="https://www.linkedin.com/in/faroque-hasnat-1766501a5/" target="blank" className="btn btn-outline-light mx-1 my-3"><FontAwesomeIcon icon={faLinkedinIn} /></a>
@@ -28,8 +28,8 @@ const Slider = () => {
                <div className="carousel-item carousel-img-2">
                   <div className="container opacity">
                      <div className="carousel-caption mb-3 pb-3 mb-sm-5 pb-sm-5">
-                     <h2 className="display-4">Faroque Hasnat</h2>
-                        <h5>Reactjs Developer</h5>
+                     <h2 className="display-4 text-light">Faroque Hasnat</h2>
+                        <h5 className=" text-light">Reactjs Developer</h5>
                         <a href="https://www.facebook.com/faroquehasnat" target="blank" className="btn btn-outline-light mx-1 my-3"><FontAwesomeIcon icon={faFacebookF} /></a>
                         <a href="https://www.facebook.com/messages/t/faroquehasnat" target="blank" className="btn btn-outline-light mx-1 my-3"><FontAwesomeIcon icon={faFacebookMessenger} /></a>
                         <a href="https://www.linkedin.com/in/faroque-hasnat-1766501a5/" target="blank" className="btn btn-outline-light mx-1 my-3"><FontAwesomeIcon icon={faLinkedinIn} /></a>
@@ -41,8 +41,8 @@ const Slider = () => {
                <div className="carousel-item carousel-img-3">
                   <div className="container">
                      <div className="carousel-caption mb-3 pb-3 mb-sm-5 pb-sm-5 text-right">
-                     <h2 className="display-4">Faroque Hasnat</h2>
-                        <h5>Nodejs Developer</h5>
+                     <h2 className="display-4 text-light">Faroque Hasnat</h2>
+                        <h5 className=" text-light">Nodejs Developer</h5>
                         <a href="https://www.facebook.com/faroquehasnat" target="blank" className="btn btn-outline-light mx-1 my-3"><FontAwesomeIcon icon={faFacebookF} /></a>
                         <a href="https://www.facebook.com/messages/t/faroquehasnat" target="blank" className="btn btn-outline-light mx-1 my-3"><FontAwesomeIcon icon={faFacebookMessenger} /></a>
                         <a href="https://www.linkedin.com/in/faroque-hasnat-1766501a5/" target="blank" className="btn btn-outline-light mx-1 my-3"><FontAwesomeIcon icon={faLinkedinIn} /></a>

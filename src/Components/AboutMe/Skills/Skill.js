@@ -7,8 +7,8 @@ class Skills extends React.Component{
          <div className="container mb-5">
             <div className="row mt-md-5 pt-5">
                <div className="col-md-8">
-                  <h3>My Skills</h3>
-                  <h5>Have More Then 3 Years Experience</h5>
+                  <h3 className=" text-dark">My Skills</h3>
+                  <h5 className=" text-dark">Have More Then 3 Years Experience</h5>
                   <div className="mt-3">
                      <div className="container">
                      <div className="row">

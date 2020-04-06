@@ -26,7 +26,7 @@ class Countdown extends React.Component{
             <div className=" dark-overlay">
                <div className="container mt-md-3 py-5">
                      <div className="text-center text-light">
-                        <h2>Life's Journey</h2>
+                        <h2 className="text-light">Life's Journey</h2>
                         <p className="lead">I never sleep when i'm tired, I sleep only when i'm Done!</p>
                      </div>
                   <div className="row">

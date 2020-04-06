@@ -12,7 +12,7 @@ const ServiceItem = () => {
             <div className="row py-5 text-light">
                <div className="col text-center">
                   <h2>SERVICES</h2>
-                  <h5 className="">Some of my main services are listed below. I provide different kind of services</h5>
+                  <h5 className=" text-light">Some of my main services are listed below. I provide different kind of services</h5>
                </div>
             </div>
             <div className="row text-center">
@@ -22,7 +22,7 @@ const ServiceItem = () => {
                         <span><FontAwesomeIcon className="icon" icon={faLaptopCode} /></span>
                      </div>
                      <div className="text-light">
-                        <h4>WEB DESIGN</h4>
+                        <h4 className="text-light">WEB DESIGN</h4>
                         <p className="lead">Qualified web designs and attractive effects which catches visitor's Eye.</p>
                         <a href="https://www.fiverr.com/hasnat257256?up_rollout=true" className="btn btn-outline-info" target="blank">Click Here</a>
                      </div>
@@ -34,7 +34,7 @@ const ServiceItem = () => {
                         <span><FontAwesomeIcon className="icon" icon={faCode} /></span>
                      </div>
                      <div className="text-light">
-                        <h4>WEB DEVELOPMENT</h4>
+                        <h4 className="text-light">WEB DEVELOPMENT</h4>
                         <p className="lead">Clean and fresh issue free code to make your website dynamic perfectly.</p>
                         <a href="https://www.fiverr.com/hasnat257256?up_rollout=true" className="btn btn-outline-info" target="blank">Click Here</a>
                      </div>
@@ -46,7 +46,7 @@ const ServiceItem = () => {
                         <span><FontAwesomeIcon className="icon" icon={faSearchPlus} /></span>
                      </div>
                      <div className="text-light">
-                        <h4>SEO</h4>
+                        <h4 className=" text-light">SEO</h4>
                         <p className="lead">Search Engine Optimization to make website high ranked and bring expected traffics on websites.</p>
                         <a href="https://www.fiverr.com/hasnat257256?up_rollout=true" className="btn btn-outline-info" target="blank">Click Here</a>
                      </div>

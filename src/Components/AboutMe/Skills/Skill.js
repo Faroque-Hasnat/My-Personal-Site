@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from '../../../images/myPic.png';
 
 class Skills extends React.Component{
    render() {
@@ -131,7 +130,7 @@ class Skills extends React.Component{
                   </div>
                </div>
                <div className="col-md-4 mt-md-3 mt-5 d-none d-md-flex">
-                  <img className="img-fluid rounded" src={Image} alt="Faroque Hasnat" />
+                  <img className="img-fluid rounded" src="https://i.postimg.cc/FHGhwKfV/myPic.jpg" alt="Faroque Hasnat" />
                </div>
             </div>
          </div>

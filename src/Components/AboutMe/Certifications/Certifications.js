@@ -1,15 +1,14 @@
 import React from 'react';
-import Image from '../../../images/responsive1.png';
 
 
 class Certifications extends React.Component{
 
    state = {
       Image: [
-         {URL: 'https://www.freecodecamp.org/certification/faroquehasnat/responsive-web-design', url: Image}, 
-         {URL: 'https://www.freecodecamp.org/certification/faroquehasnat/responsive-web-design', url: Image}, 
-         {URL: 'https://www.freecodecamp.org/certification/faroquehasnat/responsive-web-design', url: Image}, 
-         {URL: 'https://www.freecodecamp.org/certification/faroquehasnat/responsive-web-design', url: Image}
+         {URL: 'https://www.freecodecamp.org/certification/faroquehasnat/responsive-web-design', url: 'https://i.postimg.cc/jdP53KQM/responsive1.png'}, 
+         {URL: 'https://www.freecodecamp.org/certification/faroquehasnat/responsive-web-design', url: 'https://i.postimg.cc/jdP53KQM/responsive1.png'}, 
+         {URL: 'https://www.freecodecamp.org/certification/faroquehasnat/responsive-web-design', url: 'https://i.postimg.cc/jdP53KQM/responsive1.png'}, 
+         {URL: 'https://www.freecodecamp.org/certification/faroquehasnat/responsive-web-design', url: 'https://i.postimg.cc/jdP53KQM/responsive1.png'}
       ]
    }
 

@@ -7,15 +7,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .carousel-img-1 {
-   background: url('../images/slider1.jpg');
+   background: url('https://i.postimg.cc/t49Xr6gg/slider1.jpg');
    background-size: cover;
 }
 .carousel-img-2 {
-   background: url('../images/slider2.jpg');
+   background: url('https://i.postimg.cc/tTny1tBB/slider2.jpg');
    background-size: cover;
 }
 .carousel-img-3 {
-   background: url('../images/slider3.jpeg');
+   background: url('https://i.postimg.cc/cJb045BK/slider3.jpg');
    background-size: cover;
 }
 
@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #back-image {
-   background: url('../images/background1.jpg');
+   background: url('https://i.postimg.cc/WpQz7trD/background1.jpg');
    background-size: cover;
    background-attachment: fixed;
    background-repeat: no-repeat;
@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #back2-image {
-   background: url('../images/background2.jpg');
+   background: url('https://i.postimg.cc/wBv9zdL8/background2.jpg');
    background-size: cover;
    background-attachment: fixed;
    background-repeat: no-repeat;

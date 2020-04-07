@@ -5,10 +5,6 @@ import 'uikit/dist/js/uikit'
 import 'uikit/dist/js/uikit-icons'
 import 'uikit/dist/css/uikit.min.css'
 
-import img1 from '../../images/money-app1.png'
-import img2 from '../../images/money-app2.png'
-import img3 from '../../images/house-rent.png'
-
 import './style.css'
 import Countdown from './Countdown/Countdown';
 
@@ -16,9 +12,9 @@ class Portfolio extends React.Component{
 
    state = {
       Image: [
-         {class: 'full-stack', url: img1, caption: 'http://money-app-tutorial.herokuapp.com/'}, 
-         {class: 'full-stack', url: img2, caption: 'http://money-app-tutorial.herokuapp.com/'}, 
-         {class: 'full-stack', url: img3, caption: 'http://houserent-app.herokuapp.com/'}
+         {class: 'full-stack', url: 'https://i.postimg.cc/LXJ4tM8B/money-app1.png', caption: 'http://money-app-tutorial.herokuapp.com/'}, 
+         {class: 'full-stack', url: 'https://i.postimg.cc/t4zgy5cP/money-app2.png', caption: 'http://money-app-tutorial.herokuapp.com/'}, 
+         {class: 'full-stack', url: 'https://i.postimg.cc/P5HqBcST/house-rent.png', caption: 'http://houserent-app.herokuapp.com/'}
       ], 
       mixCall: 'all'
    }

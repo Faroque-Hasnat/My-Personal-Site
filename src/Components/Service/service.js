@@ -11,7 +11,7 @@ const ServiceItem = () => {
          <div className="pt-5 container mt-3 text-center">
             <div className="row py-5 text-light">
                <div className="col text-center">
-                  <h2>SERVICES</h2>
+                  <h2 className="text-light">SERVICES</h2>
                   <h5 className=" text-light">Some of my main services are listed below. I provide different kind of services</h5>
                </div>
             </div>
@@ -59,7 +59,7 @@ const ServiceItem = () => {
                         <span><FontAwesomeIcon className="icon" icon={faMobileAlt} /></span>
                      </div>
                      <div className="text-light">
-                        <h4>RESPONSIVE DESIGN</h4>
+                        <h4 className="text-light">RESPONSIVE DESIGN</h4>
                         <p className="lead">Responsive Design which will be working almost all browsers and screens, Mobile, TaB, PC etc</p>
                         <a href="https://www.fiverr.com/hasnat257256?up_rollout=true" className="btn btn-outline-info" target="blank">Click Here</a>
                      </div>
@@ -72,7 +72,7 @@ const ServiceItem = () => {
                         <span><FontAwesomeIcon className="icon" icon={faWordpressSimple} /></span>
                      </div>
                      <div className="text-light">
-                        <h4>WORDPRESS</h4>
+                        <h4 className="text-light">WORDPRESS</h4>
                         <p className="lead">Wordpress, Magento, E-Commerce, Prestashop Theme Development & Customization.</p>
                         <a href="https://www.fiverr.com/hasnat257256?up_rollout=true" className="btn btn-outline-info" target="blank">Click Here</a>
                      </div>
@@ -85,7 +85,7 @@ const ServiceItem = () => {
                         <span><FontAwesomeIcon className="icon" icon={faFileAlt} /></span>
                      </div>
                      <div className="text-light">
-                        <h4>WEB RESEARCH</h4>
+                        <h4 className="text-light">WEB RESEARCH</h4>
                         <p className="lead">Admin Support, Microsoft Word, Excel, Powerpoint Slide, Internet marketing, Cpa marketing, Data mining etc etc.</p>
                         <a href="https://www.fiverr.com/hasnat257256?up_rollout=true" className="btn btn-outline-info" target="blank">Click Here</a>
                      </div>
